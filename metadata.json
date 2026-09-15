@@ -1,0 +1,6 @@
+{
+  "name": "Al Fajr Restaurant - Taste the Tradition",
+  "description": "Modern responsive website template for Al Fajr Restaurant in North Nazimabad, Karachi featuring authentic Pakistani handis, BBQ, Chinese, buffet deals, and online table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
